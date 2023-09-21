@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * Ph.D in Mathematics, University of Utah, 2026 (expected)
 * B.S. in Mathematics, National Taiwan University, 2021
 
 
-Teaching
-======
+### Teaching
 * Instructor of MATH 1050, College Algebra, Fall 2023, University of Utah
 * Instructor of MATH 1050, College Algebra, Spring 2023, University of Utah
 * TA of MATH 1310, Engineering Math, Fall 2021, University of Utah
@@ -24,14 +22,12 @@ Teaching
 * TA of Algebra (I) (Honor Program), Fall 2020, National Taiwan University
 * TA of Calculus, Spring 2019, National Taiwan University
 
-Awards
-======
+### Awards
 * EDGES Graduate Fellowship, Aug. 2021-present, University of Utah
 * Dean's Award for Graduates, Jun. 2021, National Taiwan University
 
   
-Talks
-======
+### Talks
 * Schubert Calculus on Grassmann Bundle, BAGELS, Spring 2023
 * Introduction to Volume Functions, BAGELS, Fall 2022
   
