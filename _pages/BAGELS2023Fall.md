@@ -3,8 +3,7 @@ layout: archive
 title: "BAGELS 2023 Fall"
 permalink: /BAGELS2023Fall/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
