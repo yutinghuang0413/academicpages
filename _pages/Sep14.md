@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Birational Algebraic Geometry in Positive Characteristic and a Conjecture"
+permalink: /Sep14/
+author_profile: true
+---
+
+
 ## Title: 
 Birational Algebraic Geometry in Positive Characteristic and a Conjecture
 
