@@ -24,12 +24,6 @@ Teaching
 * TA of Algebra (I) (Honor Program), Fall 2020, National Taiwan University
 * TA of Calculus, Spring 2019, National Taiwan University
 
-
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Talks
 ======
