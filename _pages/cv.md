@@ -33,4 +33,4 @@ Talks
 
 Service and leadership
 ======
-* I am an organizer of algebraic geometry student seminar (BAGELS) at the University of Utah. Please Click "BAGEL 2023 Fall" to see upcoming talks.
+* I am the organizer of algebraic geometry student seminar (BAGELS) at the University of Utah. Please Click "BAGEL 2023 Fall" to see upcoming talks.
