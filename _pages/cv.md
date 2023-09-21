@@ -32,6 +32,5 @@ redirect_from:
 * Introduction to Volume Functions, BAGELS, Fall 2022
   
 
-Service and leadership
-======
+### Service and leadership
 * I am the organizer of algebraic geometry student seminar (BAGELS) at the University of Utah. Please Click "BAGEL 2023 Fall" to see upcoming talks.
