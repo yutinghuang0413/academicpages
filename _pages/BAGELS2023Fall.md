@@ -19,7 +19,7 @@ Schedule
 | Date    | Speaker          | Title (Click to see the abstract)                                              |
 |---------|------------------|--------------------------------------------------------------------------------|
 | Sep. 7  |                  | Organizational Meeting                                                         |
-| Sep. 14 | Rahul Ajit       | [Birational Algebraic Geometry in Positive Characteristic and a Conjecture (I) |
+| Sep. 14 | Rahul Ajit       | [Birational Algebraic Geometry in Positive Characteristic and a Conjecture (I)](https://yutinghuang0413.guthub.io/academicpages/BAGELS2023Fall/Sep14.md) |
 | Sep. 21 | Rahul Ajit       | Birational Algebraic Geometry in Positive Characteristic and a Conjecture (II) |
 | Sep. 28 | Yu-Ting Huang    |                                                                                |
 | Oct. 5  | Shih-Hsin Wang   |                                                                                |
