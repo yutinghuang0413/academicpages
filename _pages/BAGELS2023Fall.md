@@ -16,10 +16,11 @@ During Fall 2023 semester, we meet on Thursdays from 3:30-4:30 in LCB 222.
 Schedule
 ======
 
-| Date    | Speaker          | Title (Click to see the abstract)                                              |
+| Date    | Speaker          | Title/Abstract                                             |
 |---------|------------------|--------------------------------------------------------------------------------|
 | Sep. 7  |                  | Organizational Meeting                                                         |
-| Sep. 14 | Rahul Ajit       | [Birational Algebraic Geometry in Positive Characteristic and a Conjecture (I)](Sep14.md)  |
+| Sep. 14 | Rahul Ajit       | Birational Algebraic Geometry in Positive Characteristic and a Conjecture (I)\
+Abstract: After recent breakthrough in the Classification of Varieties over complex number, it's natural to try to understand the geometry of varieties defined over an algebraically closed field of char. p. Despite numerous difficulty, substantial progress has been made in recent works, and interesting Conjectures have been made. In my 1st talk, I'll introduce the terminology required and mention some difficulty in positive characteristic. In my 2nd Talk, I'll prove a result on klt (=strongly F-regular) singularity.|
 | Sep. 21 | Rahul Ajit       | Birational Algebraic Geometry in Positive Characteristic and a Conjecture (II) |
 | Sep. 28 | Yu-Ting Huang    |                                                                                |
 | Oct. 5  | Shih-Hsin Wang   |                                                                                |
