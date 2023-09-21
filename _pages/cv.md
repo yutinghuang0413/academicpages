@@ -24,6 +24,11 @@ Teaching
 * TA of Algebra (I) (Honor Program), Fall 2020, National Taiwan University
 * TA of Calculus, Spring 2019, National Taiwan University
 
+Awards
+======
+* EDGES Graduate Fellowship, Aug. 2021-present, University of Utah
+* Dean's Award for Graduates, Jun. 2021, National Taiwan University
+
   
 Talks
 ======
