@@ -25,7 +25,7 @@ Schedule
 | Oct. 5  | Shih-Hsin Wang   |                                                                                |
 | Oct. 19 | Yi-Heng Tsai     |                                                                                |
 | Oct. 26 | Daniel Apsley    |                                                                                |
-| Nov. 2  | Jorge Gasparlara |                                                                                |
+| Nov. 2  | Jorge Gaspar Lara |                                                                                |
 | Nov. 9  | Zach Mere        |                                                                                |
 | Nov. 16 | Jonathon Fleck   |                                                                                |
 | Nov. 30 | Lingo Xie        |                                                                                |
