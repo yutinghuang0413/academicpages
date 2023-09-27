@@ -28,5 +28,5 @@ Schedule
 | Nov. 2  | Jorge Gaspar Lara |                                                                                |
 | Nov. 9  | Zach Mere        |                                                                                |
 | Nov. 16 | Jonathon Fleck   |                                                                                |
-| Nov. 30 | Lingo Xie        |                                                                                |
+| Nov. 30 | Lingyao Xie        |                                                                                |
 | Dec. 7  | Qingyuan Xue     |                                                                                |
