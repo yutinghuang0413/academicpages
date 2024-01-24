@@ -19,6 +19,7 @@ Schedule
 | Date    | Speaker          | Title/Abstract                                             |
 |---------|------------------|--------------------------------------------------------------------------------|
 | Jan. 24 |                  | Organizational Meeting                                                         |
+| Jan. 31 |                  | **Abstract:**                                                                  |
 | Feb. 7  |Yu-Ting Huang                  | **Abstract:**                                                                  |
 | Feb. 14 |                  | **Abstract:**                                                                  |
 | Feb. 21 |Rahul Ajit                  | **Abstract:**                                                                  |
