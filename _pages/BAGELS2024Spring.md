@@ -19,9 +19,8 @@ Schedule
 | Date    | Speaker          | Title/Abstract                                             |
 |---------|------------------|--------------------------------------------------------------------------------|
 | Jan. 24 |                  | Organizational Meeting                                                         |
-| Jan. 31 |                  | **Abstract:**                                                                  |
-| Feb. 7  |Yu-Ting Huang                  | **Abstract:**                                                                  |
-| Feb. 14 |                  | **Abstract:**                                                                  |
+| Feb. 14 |Yu-Ting Huang                  | The Boundedness of Complements for Log Surfaces **Abstract:** Shokurov posed the idea of complements in his work, 3-fold Log Flips, 1992. Since then, the theory of complements has played an essential role in birational geometry. People are concerned about the existence as well as the boundedness of complements. In the past 20 years, lots of related works have been done. For example, Birkar proved that the complements are bounded for Fano type morphisms in his well-known paper, Anti-pluricanonical System on Fano Varieties, 2019.
+In this talk, I will define the complement and prove the existence and boundedness of log Fano local type surfaces.                                                                 |
 | Feb. 21 |Rahul Ajit                  | **Abstract:**                                                                  |
 | Feb. 28 |Zach Mere                  | **Abstract:**                                                                  |
 | Mar. 13 |Joseph Sullivan                  | **Abstract:**                                                                  |
