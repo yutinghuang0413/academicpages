@@ -28,9 +28,11 @@ redirect_from:
 
   
 ### Talks
+* The Boundedness of Complements for Log Surfaces, BAGELS, Spring 2024
+* Correspondence between F-singularity and KLT/LC Singularity, BAGELS, Fall 2023 
 * Schubert Calculus on Grassmann Bundle, BAGELS, Spring 2023
 * Introduction to Volume Functions, BAGELS, Fall 2022
   
 
 ### Service and leadership
-* I am the organizer of algebraic geometry student seminar (BAGELS) at the University of Utah. Please Click "BAGEL 2023 Fall" to see upcoming talks.
+* I am the organizer of algebraic geometry student seminar (BAGELS) at the University of Utah. Please Click "BAGEL 2024 Spring" to see upcoming talks.
