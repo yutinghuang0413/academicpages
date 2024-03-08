@@ -24,7 +24,7 @@ Schedule
 | Feb. 28 |Zach Mere                  | Arc spaces and the Nash problem <br> **Abstract:** Nash viewed the theory of arc spaces as a tool for studying the singularities of a complex variety. In 1968, he predicted a bijection between families of arcs through singularities and so-called “essential” divisors, which appear as exceptional in every resolution of singularities. This problem was wide open until recently. The correspondence has since been shown to hold for surfaces, but to fail in general in higher dimensions. However, certain partial results have been proven true in all dimensions, suggesting that a slightly different formulation might work. In this talk, we'll discuss this recent progress towards a solution to the Nash problem.                                                                                                               |
 | Mar. 13 |Joseph Sullivan                  | **Abstract:**                                                                  |
 | Mar. 20 |Yi-Heng Tsai                  | **Abstract:**                                                                  |
-| Mar. 27 |                  | **Abstract:**                                                                  |
+| Mar. 27 |Daniel Apsley                  | **Abstract:**                                                                  |
 | Apr. 3  |Jonathon Fleck                  | **Abstract:**                                                                  |
 | Apr. 10 |Will Legg                  | **Abstract:**                                                                  |
 | Apr. 17 |Qingyuan Xue                  | **Abstract:**                                                                  |
